@@ -1,0 +1,24 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: black;
+}
+h1{
+    color: RED;
+    text-align: center;
+}
+p{
+    color: grey;
+    font-family: Gulzar;
+}
+#img1{
+    float: left;
+}
+#img2{
+    float: right;
+}
+#img3{
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
